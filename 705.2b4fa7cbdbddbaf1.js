@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkProcureHub_NG=self.webpackChunkProcureHub_NG||[]).push([[705],{705:(r,s,t)=>{t.r(s),t.d(s,{BuyerLiveModule:()=>n});var e=t(6814),c=t(5879);let n=(()=>{class u{static#t=this.\u0275fac=function(o){return new(o||u)};static#u=this.\u0275mod=c.oAB({type:u});static#s=this.\u0275inj=c.cJS({imports:[e.ez]})}return u})()}}]);
